@@ -55,4 +55,4 @@ client.on('message', message =>{
     }
 });
 
-client.login('ODIyNjY4NzUxMjk5OTM2Mjc3.YFVn-g.SapNRq9_wNS7tDB7yEW2R6Wj-DU')
+client.login('***********************************************')
